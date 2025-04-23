@@ -4,12 +4,13 @@ A simple and fun Streamlit app that detects emotion from a text input and return
 Just type how you're feeling, and get an instant emotional analysis 😊
 
 ---
-##  🤓 Try
-## א
+
+## 🤩 Try
 You can try out the live demo here: [Click to open the app]([https://feelmoji-python-project-msygullupulnuqwt8aqsms.streamlit.app/])  
 No installation needed — just open and start typing!
 
 טםו
+---
 אם
 ## ✨ Features
 
